@@ -23,15 +23,18 @@ After installing Ollama,
 
 **Ollama Version**:
 
-![Screenshot 2026-01-01 154246](C:\Users\humag\Masaüstü\Ekran Görüntüleri\Screenshot 2026-01-01 154246.png)
+<img width="1150" height="61" alt="Screenshot 2026-01-01 154246" src="https://github.com/user-attachments/assets/6039799b-3351-4847-9235-0db87134f6d1" />
+
 
 **Simple Experiment with phi3:mini**:
 
-![Screenshot 2026-01-01 154559](C:\Users\humag\Masaüstü\Ekran Görüntüleri\Screenshot 2026-01-01 154559.png)
+<img width="1842" height="227" alt="Screenshot 2026-01-01 154559" src="https://github.com/user-attachments/assets/931bf393-1226-4c3f-a9d1-5107463a615a" />
+
 
 **Simple Experiment with qwen2.5:3b**:
 
-![image-20260102012958901](C:\Users\humag\AppData\Roaming\Typora\typora-user-images\image-20260102012958901.png)
+<img width="1367" height="115" alt="Screenshot 2026-01-02 012956" src="https://github.com/user-attachments/assets/a1a0d3f6-2e1a-4fa4-8e6f-69d5df02eb0b" />
+
 
 ### 3. Models Tested
 
