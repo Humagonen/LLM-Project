@@ -136,3 +136,18 @@ What would you change next time?
 - Test additional prompt constraints to further reduce verbose outputs.
 - Evaluate one slightly larger model to better understand performance trade-offs.
 
+------------
+
+### 8. API-based Inference
+
+Models were accessed programmatically via Ollama’s local HTTP API using a Python script (`run_model.py`). Prompts were sent as JSON payloads and responses were captured along with inference time to enable reproducible benchmarking and comparison across models.
+
+To do this,
+
+- Make sure ollama API is running: `http://localhost:11434`
+- Install python deps: `pip install requests`
+- Run `run_model.py`: `python run_model.py`
+
+Output:
+
+![alt text](image.png)
