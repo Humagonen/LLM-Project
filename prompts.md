@@ -13,16 +13,19 @@ Transformer-based language models use self-attention mechanisms to model context
 
 Explain what this Python function does in simple terms:
 
+```python
 def factorial(n):
     if n == 0:
         return 1
     else:
         return n * factorial(n-1)
+```
 
 ### prompt 3 - Code Help
 
 Refactor this JavaScript function to make it more readable and efficient:
 
+```javascript
 function addNumbers(arr) {
     let sum = 0;
     for(let i=0;i<arr.length;i++){
@@ -30,11 +33,13 @@ function addNumbers(arr) {
     }
     return sum;
 }
+```
 
 ### prompt 4 - Code Help
 
 Write unit tests in Python using pytest for this function:
 
+```python
 def is_prime(n):
     if n <= 1:
         return False
@@ -42,15 +47,18 @@ def is_prime(n):
         if n % i == 0:
             return False
     return True
+```
 
 ### prompt 5 - Code Help
 
 Suggest an improvement or optimization for this Python snippet: 
 
+```python
 numbers = [1,2,3,4,5]
 squared = []
 for n in numbers:
     squared.append(n**2)
+```
 
 
 -----------------------
