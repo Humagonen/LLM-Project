@@ -208,7 +208,7 @@ This single line of code achieves the same result as your original snippet but i
 
 ---
 
-### Prompt 6 output:   WAS VERY SLOW
+### Prompt 6 output: 
 
 Here is the extracted information formatted as JSON:
 
@@ -238,7 +238,7 @@ Choose the format that best suits your needs.
 
 ---
 
-### Prompt 7 output: again slow but faster than the previous prompt
+### Prompt 7 output:
 
 Here is the conversion of the given requirements into test cases in JSON format:
 
